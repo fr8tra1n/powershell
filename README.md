@@ -1,7 +1,14 @@
 Concise powershell profile 
 ==========
 
-Another reference to a common powershell profile.
+Just to humor the average command line nerd :)
+
+External modules:
+
+<ul>
+	<li><a href="https://github.com/joelthelion/autojump">Auto-Jump</a></li>
+	<li><a href="https://pscx.codeplex.com/">PowerShell Community Extensions</a></li>
+</ul>
 
 ```Powershell
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
