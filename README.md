@@ -6,7 +6,7 @@ Just to humor the average command line nerd :)
 External modules:
 
 <ul>
-	<li><a href="https://github.com/joelthelion/autojump">Auto-Jump</a></li>
+	<li><a href="https://github.com/tkellogg/Jump-Location">Jump-Location</a> - <a href="http://www.hanselman.com/blog/JumpLocationAChangeDirectoryCDPowerShellCommandThatReadsYourMind.aspx">Hanselmann certified</a></li>
 	<li><a href="https://pscx.codeplex.com/">PowerShell Community Extensions</a></li>
 </ul>
 
