@@ -9,7 +9,7 @@ External modules:
 	<li><a href="https://github.com/tkellogg/Jump-Location">Jump-Location</a> - <a href="http://www.hanselman.com/blog/JumpLocationAChangeDirectoryCDPowerShellCommandThatReadsYourMind.aspx">Hanselman certified</a></li>
 	<li><a href="https://pscx.codeplex.com/">PowerShell Community Extensions</a></li>
 	<li><a href="https://github.com/lzybkr/PSReadLine">PSReadLine</a> - <a href="http://www.hanselman.com/blog/TowardsABetterConsolePSReadlineForPowerShellCommandLineEditing.aspx">Hanselman certified as well</a></li>
-	<li><a href="http://blogs.technet.com/b/windowsserver/archive/2014/04/03/windows-management-framework-v5-preview.aspx">Windows Management Framework v5 preview (to get the OneGet package manager)</a></li>
+	<li><a href="http://blogs.technet.com/b/windowsserver/archive/2014/04/03/windows-management-framework-v5-preview.aspx">Windows Management Framework v5 preview</a> (this includes the <a href="https://github.com/OneGet/oneget">OneGet</a> package manager)</li>
 </ul>
 
 ```Powershell
